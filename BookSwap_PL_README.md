@@ -1,8 +1,6 @@
 # 📚 BookSwap PL — Student Textbook Marketplace
 
-> **Team Project (IT) — Semester 2 | WSB University**  
-> Author & Project Manager: Maksymilian Dudek  
-> Contact: Maksymilian.dudek2@wsb.edu.pl
+
 
 ---
 
@@ -115,8 +113,6 @@ This project was managed using **Kanban** methodology via **Trello**.
 ---
 
 ## 📝 License
-
-WSB University Academic Project — Semester 2, 2025/2026
 
 ---
 
